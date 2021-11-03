@@ -5,7 +5,6 @@ Project Specification
 ------------------------------------------------------
 Project Name : Telegram Bot
 Created By : Prerak Gajjar
-github link : https://www.github.co/iprerakgajjar
 -------------------------------------------------------
 Languages used : Python 3.9
 Library : Telebot
